@@ -16,7 +16,7 @@ Video process can be tasks such as:
 
 ## Features
 - Support for injectable data stores
-- Support for atomic transactions
+- Support for atomic transactions for video processing
 - Multi-tenant support 
   - Isolation within the event queue between multiple videos 
 
