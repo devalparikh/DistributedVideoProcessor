@@ -23,5 +23,6 @@ Video process can be tasks such as:
 
 ## Implementation Details
 
+![image](https://github.com/devalparikh/DistributedVideoProcessor/assets/13604973/5b11c523-dfc9-4196-95df-9ed84ba520d5)
 
 
